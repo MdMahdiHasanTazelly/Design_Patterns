@@ -1,0 +1,4 @@
+
+interface Strategy {
+    void execute();
+}
