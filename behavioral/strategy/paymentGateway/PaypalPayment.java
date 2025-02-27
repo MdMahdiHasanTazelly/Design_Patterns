@@ -1,3 +1,5 @@
+// Concrete strategy
+
 public class PaypalPayment implements PaymentStrategy{
     private String email;
 

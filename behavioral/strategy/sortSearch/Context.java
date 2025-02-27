@@ -1,3 +1,4 @@
+// Context for stategies and concrete strategies
 public class Context {
     Sort sortObj;
     Search searchObj;

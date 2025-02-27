@@ -1,3 +1,5 @@
+// Concrete Strategy
+
 public class CardPayment implements PaymentStrategy {
     private String cardNumber;
 

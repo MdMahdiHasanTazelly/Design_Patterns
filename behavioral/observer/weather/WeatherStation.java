@@ -1,5 +1,6 @@
-import java.util.ArrayList;
+// Concrete Subject
 
+import java.util.ArrayList;
 
 public class WeatherStation {
     private double temp;

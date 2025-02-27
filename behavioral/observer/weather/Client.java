@@ -1,3 +1,5 @@
+// COncrete Observer
+
 public class Client implements Observer{
     String name;
     public Client(String name){
