@@ -1,3 +1,4 @@
+import sandwich.Sandwich;
 
 public class AddMayo extends SandwichDecorator{
     public AddMayo(Sandwich sandwich){

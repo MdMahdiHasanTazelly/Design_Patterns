@@ -1,4 +1,4 @@
-
+import sandwich.Sandwich;
 
 public class SideDecorator extends SandwichDecorator{
     String side;

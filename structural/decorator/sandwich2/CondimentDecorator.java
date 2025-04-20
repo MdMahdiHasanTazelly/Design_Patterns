@@ -1,3 +1,4 @@
+import sandwich.Sandwich;
 
 public class CondimentDecorator extends SandwichDecorator{
     String condiment;

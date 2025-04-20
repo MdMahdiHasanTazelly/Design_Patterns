@@ -1,3 +1,5 @@
+import sandwich.Sandwich;
+
 public class AddPickle extends SandwichDecorator{
     public AddPickle(Sandwich sandwich){
         super(sandwich);
